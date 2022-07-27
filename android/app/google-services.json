@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1009194754818",
+    "project_id": "saudetocantins-fe075",
+    "storage_bucket": "saudetocantins-fe075.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009194754818:android:af75cb5e183d0feeb4981b",
+        "android_client_info": {
+          "package_name": "com.flutterflow.receitas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009194754818-rs16hnfir8dcqhub053th983il1lnv0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDknur7Y7odZKk3kI_rKBUh4GQGMoiDibQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009194754818-rs16hnfir8dcqhub053th983il1lnv0t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1009194754818-454kk22q7pm2otj9k4dr5alfrfu3cjpg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.receitas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
